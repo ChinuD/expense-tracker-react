@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Transactions_List () {
+function TransactionsList () {
   return (
     <div>
       <h3>History</h3>
@@ -13,4 +13,4 @@ function Transactions_List () {
   )
 }
 
-export default Transactions_List 
+export default TransactionsList 
